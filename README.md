@@ -2,6 +2,8 @@
 
 A small [Model Context Protocol](https://modelcontextprotocol.io) server, written in .NET 10, that lets AI assistants (GitHub Copilot, JetBrains AI Assistant / Junie, Claude, etc.) read and create work items in a Jira Cloud project.
 
+Note: Atlassian already provides a MCP tool for Jira, this tool is to demonstrate how we can build something similar. Jira is free for up to 10 users, so if you also want to give it a try, sign up directly on the [Atlassian Jira Signup Page](https://www.atlassian.com/try/cloud/signup).
+
 ## This is a local MCP server
 
 This server runs **on your own machine**. It is not a hosted service and has no URL to connect to.
